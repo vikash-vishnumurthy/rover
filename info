@@ -1,0 +1,23 @@
+To Start the app
+run 'roverapi.py' file, i.e 'python roverapi.py' 
+
+Routes:
+
+* '/api/rover/status'
+* '/api/rover/move'
+* '/api/environment'
+* '/api/environment/configure'
+* '/api/rover/configure/battery'
+* '/api/rover/action'
+
+Technology used:
+
+1) Flask Framework
+2) Python
+3) Postman Software
+
+My information:
+
+Name : Vikash
+Ph No : +91 9629609824
+email : vikashkavitha08021996@gmail.com
